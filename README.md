@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building Fake Images Detection Website.<br>🌱 I’m currently learning more about Generative AI.<br>👯 I’m looking to collaborate on Youtube.<br>🤔 I’m looking for help with Microservices.<br>💬 Ask me about Deep Learning or any tech-related stuff.<br>📫 How to reach me: Check social links below.
+🔭 I’m currently have a Machine Larning on Cloud (AWS) trainng in National Telecomunication institute (NTI).<br>🌱 I’m currently learning more about Generative AI.<br>👯 I’m looking to collaborate on Youtube.<br>🤔 I’m looking for help with LSTM and Generative AI.<br>💬 Ask me about Deep Learning or any tech-related stuff.<br>📫 How to reach me: Check social links below.
 
 
 ## 🌐 Socials:
